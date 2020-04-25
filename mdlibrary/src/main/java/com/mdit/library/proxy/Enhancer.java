@@ -2,14 +2,14 @@ package com.mdit.library.proxy;
 
 import android.content.Context;
 
-import com.mdit.library.dx.Code;
-import com.mdit.library.dx.Comparison;
-import com.mdit.library.dx.DexMaker;
-import com.mdit.library.dx.FieldId;
-import com.mdit.library.dx.Label;
-import com.mdit.library.dx.Local;
-import com.mdit.library.dx.MethodId;
-import com.mdit.library.dx.TypeId;
+import com.android.dx.Code;
+import com.android.dx.Comparison;
+import com.android.dx.DexMaker;
+import com.android.dx.FieldId;
+import com.android.dx.Label;
+import com.android.dx.Local;
+import com.android.dx.MethodId;
+import com.android.dx.TypeId;
 
 import java.io.File;
 import java.io.IOException;
